@@ -1,3 +1,5 @@
+# An Image sharing SPA project built with react, material-ui and firebase including features like authentication, image upload, like and comment on images, add image to favorites, follow other users, upload history etc.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
