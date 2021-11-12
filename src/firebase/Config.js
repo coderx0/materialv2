@@ -3,12 +3,7 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCGXBF7TtY249QGvHBTTqTHx2laT4dcNyI",
-  authDomain: "firegram-4b80f.firebaseapp.com",
-  projectId: "firegram-4b80f",
-  storageBucket: "firegram-4b80f.appspot.com",
-  messagingSenderId: "600693377103",
-  appId: "1:600693377103:web:487cfd9d9597f75510423a"
+ //paste your firebase project settings here
 };
 
 // Initialize Firebase
